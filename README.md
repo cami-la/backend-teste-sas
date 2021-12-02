@@ -4,7 +4,7 @@
 ## Considerações sobre o desafio
 
 * Desenvolva as funcionalidades propostas utilizando JAVA 8 ou superior e Spring Boot
-* Fazer upload do código para o github e enviar o link do repositório para nicolasfontenele@aridesa.com.br com o título **Teste Técnico - Dev Backend - <%NOME_COMPLETO%>**
+* Fazer upload do código para o github e enviar o link do repositório para felipealexandre@sas.com.br com o título **Teste Técnico - Dev Backend - <%NOME_COMPLETO%>**
 * Esperamos uma documentação que contenha: Instruções de execução do projeto e instruções de como executar os testes unitários. Esperamos poder executar o projeto sem a necessidade de uma IDE.
 
 * Você terá 7 dias corridos para entregar a solução. Caso precise de mais tempo entre em contato. Somos flexíveis com o prazo 😉.
